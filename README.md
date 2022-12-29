@@ -2,187 +2,187 @@
 ### Console output:
 
  The graph with which was compared has such deceased characters:
-1: Addam Marbrand
-2: Aegon Frey (son of Stevron)
-3: Aemon Targaryen (Dragonknight)
-4: Alayaya
-5: Alerie Hightower
-6: Alester Florent
-7: Alla Tyrell
-8: Amory Lorch
-9: Anders Yronwood
-10: Andrew Estermont
-11: Anguy
-12: Arson
-13: Arstan
-14: Arthur Dayne
-15: Baelor I Targaryen
-16: Ballabar
-17: Bannen
-18: Bedwyck
-19: Beric Dondarrion
-20: Big Boil
-21: Biter
-22: Blane
-23: Brandon Stark
-24: Brella
-25: Brenett
-26: Bronn
-27: Butterbumps
-28: Byam Flint
-29: Chataya
-30: Chett
-31: Cleos Frey
-32: Clubfoot Karl
-33: Craster
-34: Cressen
-35: Dacey Mormont
-36: Daeron I Targaryen
-37: Desmond Grell
-38: Dick Follard
-39: Dirk
-40: Dontos Hollard
-41: Dywen
-42: Edmure Tully
-43: Edric Storm
-44: Elinor Tyrell
-45: Elmar Frey
-46: Errok
-47: Frenken
-48: Galyeon of Cuy
-49: Garlan Tyrell
-50: Gawen Westerling
-51: Gendel
-52: Gendry
-53: Gerald Gower
-54: Gerold Hightower
-55: Gorne
-56: Grazdan mo Eraz
-57: Greenbeard
-58: Grigg
-59: Grisel
-60: Guncer Sunglass
-61: Gyles Rosby
-62: Halder
-63: Harma
-64: Harwin
-65: Helman Tallhart
-66: High Septon (Tyrions)
-67: Hoster Tully
-68: Hot Pie
-69: Husband
-70: Jack Be Lucky
-71: Jalabhar Xho
-72: Jarl
-73: Jason Mallister
-74: Jeyne Westerling
-75: Joanna Lannister
-76: Jon Arryn
-77: Jon Umber (Smalljon)
-78: Jonothor Darry
-79: Kegs
-80: Kella
-81: Khorane Sathmantes
-82: Kraznys mo Nakloz
-83: Lamprey
-84: Lark
-85: Lem
-86: Leonette Fossoway
-87: Lewyn Martell
-88: Lollys Stokeworth
-89: Loras Tyrell
-90: Lothar Frey
-91: Lothor Brune
-92: Luwin
-93: Lysa Arryn
-94: Mad Huntsman
-95: Maegor I Targaryen
-96: Mag Mar Tun Doh Weg
-97: Mallador Locke
-98: Mandon Moore
-99: Marillion
-100: Marq Piper
-101: Martyn Lannister
-102: Mathis Rowan
-103: Megga Tyrell
-104: Mero
-105: Merrett Frey
-106: Merrit
-107: Moon Boy
-108: Mordane
-109: Munda
-110: Mycah
-111: Nage
-112: Nan
-113: Olenna Redwyne
-114: Olyvar Frey
-115: Orell
-116: Osmund Kettleblack
-117: Oswell Kettleblack
-118: Oswell Whent
-119: Ottyn Wythers
-120: Oznak zo Pahl
-121: Pate (Old)
-122: Paxter Redwyne
-123: Perwyn Frey
-124: Petyr Frey
-125: Podrick Payne
-126: Polliver
-127: Porridge
-128: Prendahl na Ghezn
-129: Pylos
-130: Ragwyle
-131: Ravella Swann
-132: Raynald Westerling
-133: Renly Baratheon
-134: Rhaegel Targaryen
-135: Rhaella Targaryen
-136: Robert Arryn
-137: Robin Flint
-138: Robin Ryger
-139: Rollam Westerling
-140: Rolph Spicer
-141: Rorge
-142: Roslin Frey
-143: Rossart
-144: Ryk
-145: Ryman Frey
-146: Sallor
-147: Sandor Clegane
-148: Shagwell
-149: Sharna
-150: Simon Toyne
-151: Small Paul
-152: Smiling Knight
-153: Softfoot
-154: Spare Boot
-155: Stevron Frey
-156: Styr
-157: Symon Silver Tongue
-158: Tanda Stokeworth
-159: Tansy
-160: Thoren Smallwood
-161: Thoros of Myr
-162: Tickler
-163: Tion Frey
-164: Tom of Sevenstreams
-165: Torrhen Stark
-166: Tristifer IV Mudd
-167: Urswyck
-168: Utherydes Wayn
-169: Vargo Hoat
-170: Vyman
-171: Walder Frey
-172: Walder Rivers
-173: Walton
-174: Watt
-175: Wendel Manderly
-176: Willas Tyrell
-177: Willem Lannister
-178: Wynton Stout
-179: Yohn Royce
-180: Zei
-181: Zollo
+1) Addam Marbrand
+2) Aegon Frey (son of Stevron)
+3) Aemon Targaryen (Dragonknight)
+4) Alayaya
+5) Alerie Hightower
+6) Alester Florent
+7) Alla Tyrell
+8) Amory Lorch
+9) Anders Yronwood
+10) Andrew Estermont
+11) Anguy
+12) Arson
+13) Arstan
+14) Arthur Dayne
+15) Baelor I Targaryen
+16) Ballabar
+17) Bannen
+18) Bedwyck
+19) Beric Dondarrion
+20) Big Boil
+21) Biter
+22) Blane
+23) Brandon Stark
+24) Brella
+25) Brenett
+26) Bronn
+27) Butterbumps
+28) Byam Flint
+29) Chataya
+30) Chett
+31) Cleos Frey
+32) Clubfoot Karl
+33) Craster
+34) Cressen
+35) Dacey Mormont
+36) Daeron I Targaryen
+37) Desmond Grell
+38) Dick Follard
+39) Dirk
+40) Dontos Hollard
+41) Dywen
+42) Edmure Tully
+43) Edric Storm
+44) Elinor Tyrell
+45) Elmar Frey
+46) Errok
+47) Frenken
+48) Galyeon of Cuy
+49) Garlan Tyrell
+50) Gawen Westerling
+51) Gendel
+52) Gendry
+53) Gerald Gower
+54) Gerold Hightower
+55) Gorne
+56) Grazdan mo Eraz
+57) Greenbeard
+58) Grigg
+59) Grisel
+60) Guncer Sunglass
+61) Gyles Rosby
+62) Halder
+63) Harma
+64) Harwin
+65) Helman Tallhart
+66) High Septon (Tyrions)
+67) Hoster Tully
+68) Hot Pie
+69) Husband
+70) Jack Be Lucky
+71) Jalabhar Xho
+72) Jarl
+73) Jason Mallister
+74) Jeyne Westerling
+75) Joanna Lannister
+76) Jon Arryn
+77) Jon Umber (Smalljon)
+78) Jonothor Darry
+79) Kegs
+80) Kella
+81) Khorane Sathmantes
+82) Kraznys mo Nakloz
+83) Lamprey
+84) Lark
+85) Lem
+86) Leonette Fossoway
+87) Lewyn Martell
+88) Lollys Stokeworth
+89) Loras Tyrell
+90) Lothar Frey
+91) Lothor Brune
+92) Luwin
+93) Lysa Arryn
+94) Mad Huntsman
+95) Maegor I Targaryen
+96) Mag Mar Tun Doh Weg
+97) Mallador Locke
+98) Mandon Moore
+99) Marillion
+100) Marq Piper
+101) Martyn Lannister
+102) Mathis Rowan
+103) Megga Tyrell
+104) Mero
+105) Merrett Frey
+106) Merrit
+107) Moon Boy
+108) Mordane
+109) Munda
+110) Mycah
+111) Nage
+112) Nan
+113) Olenna Redwyne
+114) Olyvar Frey
+115) Orell
+116) Osmund Kettleblack
+117) Oswell Kettleblack
+118) Oswell Whent
+119) Ottyn Wythers
+120) Oznak zo Pahl
+121) Pate (Old)
+122) Paxter Redwyne
+123) Perwyn Frey
+124) Petyr Frey
+125) Podrick Payne
+126) Polliver
+127) Porridge
+128) Prendahl na Ghezn
+129) Pylos
+130) Ragwyle
+131) Ravella Swann
+132) Raynald Westerling
+133) Renly Baratheon
+134) Rhaegel Targaryen
+135) Rhaella Targaryen
+136) Robert Arryn
+137) Robin Flint
+138) Robin Ryger
+139) Rollam Westerling
+140) Rolph Spicer
+141) Rorge
+142) Roslin Frey
+143) Rossart
+144) Ryk
+145) Ryman Frey
+146) Sallor
+147) Sandor Clegane
+148) Shagwell
+149) Sharna
+150) Simon Toyne
+151) Small Paul
+152) Smiling Knight
+153) Softfoot
+154) Spare Boot
+155) Stevron Frey
+156) Styr
+157) Symon Silver Tongue
+158) Tanda Stokeworth
+159) Tansy
+160) Thoren Smallwood
+161) Thoros of Myr
+162) Tickler
+163) Tion Frey
+164) Tom of Sevenstreams
+165) Torrhen Stark
+166) Tristifer IV Mudd
+167) Urswyck
+168) Utherydes Wayn
+169) Vargo Hoat
+170) Vyman
+171) Walder Frey
+172) Walder Rivers
+173) Walton
+174) Watt
+175) Wendel Manderly
+176) Willas Tyrell
+177) Willem Lannister
+178) Wynton Stout
+179) Yohn Royce
+180) Zei
+181) Zollo
 
 
  The graph with which was compared has such new characters:
