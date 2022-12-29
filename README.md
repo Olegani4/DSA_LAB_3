@@ -1,7 +1,7 @@
 # Graphs
 ### Console output:
 
- The graph with which was compared has such deceased characters:
+--- The graph with which was compared has such deceased characters:
 1) Addam Marbrand
 2) Aegon Frey (son of Stevron)
 3) Aemon Targaryen (Dragonknight)
