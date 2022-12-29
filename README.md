@@ -1,7 +1,7 @@
 # Graphs
-### Console output:
+## Console output:
 
---- The graph with which was compared has such deceased characters:
+ --- The graph with which was compared has such deceased characters:
 1) Addam Marbrand
 2) Aegon Frey (son of Stevron)
 3) Aemon Targaryen (Dragonknight)
@@ -185,205 +185,205 @@
 181) Zollo
 
 
- The graph with which was compared has such new characters:
-1: Aenys Frey
-2: Aeron Greyjoy
-3: Alys Karstark
-4: Alysane Mormont
-5: Archibald Yronwood
-6: Areo Hotah
-7: Arianne Martell
-8: Arnolf Karstark
-9: Arron
-10: Arthor Karstark
-11: Arys Oakheart
-12: Asha Greyjoy
-13: Ashara Dayne
-14: Barbrey Dustin
-15: Barsena
-16: Bartimus
-17: Belaquo
-18: Ben Bones
-19: Benerro
-20: Benethon Scales
-21: Black Balaq
-22: Bloodbeard
-23: Brandon Norrey
-24: Brea
-25: Brus Buckler
-26: Brusco
-27: Brynden Rivers
-28: Bump
-29: Caggo
-30: Caleotte
-31: Camarron
-32: Cellador
-33: Clayton Suggs
-34: Cletus Yronwood
-35: Corliss Penny
-36: Cromm
-37: Daeron II Targaryen
-38: Damon Dance for Me
-39: Denzo Dhan
-40: Dick Straw
-41: Draqaz
-42: Dryn
-43: Emmett
-44: Emrick
-45: Eroeh
-46: Euron Greyjoy
-47: Ezzara
-48: Franklyn Flowers
-49: Frenya
-50: Fulk
-51: Galazza Galare
-52: Garth (Wolfs Den)
-53: Garth Greyfeather
-54: Gerold Dayne
-55: Gerrick Kingsblood
-56: Gerris Drinkwater
-57: Godric Borrell
-58: Godry Farring
-59: Goghor the Giant
-60: Grazhar
-61: Grimtongue
-62: Grunt
-63: Hagen
-64: Haggon
-65: Hairy Hal
-66: Haldon
-67: Harl
-68: Harry Strickland
-69: Harwood Stout
-70: Harys Swyft
-71: Hero
-72: High Sparrow
-73: Hizdahr zo Loraq
-74: Holly
-75: Hop Robin
-76: Hosteen Frey
-77: Hoster Blackwood
-78: Hother Umber
-79: Hugh Hungerford
-80: Jared Frey
-81: Jeyne Poole
-82: Connington
-83: Jonos Bracken
-84: Josmyn Peckledon
-85: Justin Massey
-86: Kasporio
-87: Kedry
-88: Kerwin
-89: Khrazz
-90: Kindly Man
-91: Larraq
-92: Leaf
-93: Leathers
-94: Lemore
-95: Leona Woolfield
-96: Longwater Pyke
-97: Lorren
-98: Lucifer Long
-99: Luton
-100: Lyanna Mormont
-101: Lyanna Stark
-102: Lysono Maar
-103: Malaquo Maegyr
-104: Malegorn
-105: Marghaz zo Loraq
-106: Marlon Manderly
-107: Marselen
-108: Marya Seaworth
-109: Meris
-110: Mezzara
-111: Miklaz
-112: Moelle
-113: Moqorro
-114: Morgo
-115: Mors Umber
-116: Myles Toyne
-117: Narbert Grandison
-118: Nurse
-119: Nyessos Vhassar
-120: Nymeria Sand
-121: Obara Sand
-122: Old Bill Bone
-123: Osney Kettleblack
-124: Patrek of Kings Mountain
-125: Penny
-126: Pono
-127: Qarl the Maid
-128: Qavo Nogarys
-129: Qezza
-130: Quaithe
-131: Quentyn Martell
-132: Ralf (Limper)
-133: Raymun Redbeard
-134: Reznak mo Reznak
-135: Rhaegar Frey
-136: Rhaenys Targaryen (daughter of Rhaegar)
-137: Richard Horpe
-138: Robert Strong
-139: Rodrik Sparr
-140: Roger Ryswell
-141: Rolfe the Dwarf
-142: Rolly Duckfield
-143: Ronnet Connington
-144: Roose Ryswell
-145: Rory
-146: Rowan
-147: Scar
-148: Scolera
-149: Shrouded Lord
-150: Sigorn
-151: Skahaz mo Kandaq
-152: Skinner
-153: Soren Shieldbreaker
-154: Sour Alyn
-155: Spotted Cat
-156: Squirrel
-157: Steelskin
-158: Sweets
-159: Sybelle Glover
-160: Symon Stripeback
-161: Tattered Prince
-162: Theomore
-163: Thistle
-164: Tom Barleycorn
-165: Toregg
-166: Torghen Flint
-167: Torgon Greyiron
-168: Tristifer Botley
-169: Trystane Martell
-170: Tybero Istarion
-171: Tycho Nestoris
-172: Tyene Sand
-173: Ulmer
-174: Unella
-175: Victarion Greyjoy
-176: Waif
-177: Walda Frey (daughter of Merrett)
-178: Walder Frey (son of Jammos)
-179: Walder Frey (son of Merrett)
-180: Wex Pyke
-181: Wick Whittlestick
-182: Widower
-183: Willam Dustin
-184: William Foxglove
-185: Willow Witch eye
-186: Wulfe
-187: Wun Weg Wun Dar Wun
-188: Wylis Manderly
-189: Wyman Manderly
-190: Xaro Xhoan Daxos
-191: Yandry
-192: Yellow Dick
-193: Yezzan zo Qaggaz
-194: Ysilla
-195: Yurkhaz zo Yunzak
+ --- The graph with which was compared has such new characters:
+1) Aenys Frey
+2) Aeron Greyjoy
+3) Alys Karstark
+4) Alysane Mormont
+5) Archibald Yronwood
+6) Areo Hotah
+7) Arianne Martell
+8) Arnolf Karstark
+9) Arron
+10) Arthor Karstark
+11) Arys Oakheart
+12) Asha Greyjoy
+13) Ashara Dayne
+14) Barbrey Dustin
+15) Barsena
+16) Bartimus
+17) Belaquo
+18) Ben Bones
+19) Benerro
+20) Benethon Scales
+21) Black Balaq
+22) Bloodbeard
+23) Brandon Norrey
+24) Brea
+25) Brus Buckler
+26) Brusco
+27) Brynden Rivers
+28) Bump
+29) Caggo
+30) Caleotte
+31) Camarron
+32) Cellador
+33) Clayton Suggs
+34) Cletus Yronwood
+35) Corliss Penny
+36) Cromm
+37) Daeron II Targaryen
+38) Damon Dance for Me
+39) Denzo Dhan
+40) Dick Straw
+41) Draqaz
+42) Dryn
+43) Emmett
+44) Emrick
+45) Eroeh
+46) Euron Greyjoy
+47) Ezzara
+48) Franklyn Flowers
+49) Frenya
+50) Fulk
+51) Galazza Galare
+52) Garth (Wolfs Den)
+53) Garth Greyfeather
+54) Gerold Dayne
+55) Gerrick Kingsblood
+56) Gerris Drinkwater
+57) Godric Borrell
+58) Godry Farring
+59) Goghor the Giant
+60) Grazhar
+61) Grimtongue
+62) Grunt
+63) Hagen
+64) Haggon
+65) Hairy Hal
+66) Haldon
+67) Harl
+68) Harry Strickland
+69) Harwood Stout
+70) Harys Swyft
+71) Hero
+72) High Sparrow
+73) Hizdahr zo Loraq
+74) Holly
+75) Hop Robin
+76) Hosteen Frey
+77) Hoster Blackwood
+78) Hother Umber
+79) Hugh Hungerford
+80) Jared Frey
+81) Jeyne Poole
+82) Connington
+83) Jonos Bracken
+84) Josmyn Peckledon
+85) Justin Massey
+86) Kasporio
+87) Kedry
+88) Kerwin
+89) Khrazz
+90) Kindly Man
+91) Larraq
+92) Leaf
+93) Leathers
+94) Lemore
+95) Leona Woolfield
+96) Longwater Pyke
+97) Lorren
+98) Lucifer Long
+99) Luton
+100) Lyanna Mormont
+101) Lyanna Stark
+102) Lysono Maar
+103) Malaquo Maegyr
+104) Malegorn
+105) Marghaz zo Loraq
+106) Marlon Manderly
+107) Marselen
+108) Marya Seaworth
+109) Meris
+110) Mezzara
+111) Miklaz
+112) Moelle
+113) Moqorro
+114) Morgo
+115) Mors Umber
+116) Myles Toyne
+117) Narbert Grandison
+118) Nurse
+119) Nyessos Vhassar
+120) Nymeria Sand
+121) Obara Sand
+122) Old Bill Bone
+123) Osney Kettleblack
+124) Patrek of Kings Mountain
+125) Penny
+126) Pono
+127) Qarl the Maid
+128) Qavo Nogarys
+129) Qezza
+130) Quaithe
+131) Quentyn Martell
+132) Ralf (Limper)
+133) Raymun Redbeard
+134) Reznak mo Reznak
+135) Rhaegar Frey
+136) Rhaenys Targaryen (daughter of Rhaegar)
+137) Richard Horpe
+138) Robert Strong
+139) Rodrik Sparr
+140) Roger Ryswell
+141) Rolfe the Dwarf
+142) Rolly Duckfield
+143) Ronnet Connington
+144) Roose Ryswell
+145) Rory
+146) Rowan
+147) Scar
+148) Scolera
+149) Shrouded Lord
+150) Sigorn
+151) Skahaz mo Kandaq
+152) Skinner
+153) Soren Shieldbreaker
+154) Sour Alyn
+155) Spotted Cat
+156) Squirrel
+157) Steelskin
+158) Sweets
+159) Sybelle Glover
+160) Symon Stripeback
+161) Tattered Prince
+162) Theomore
+163) Thistle
+164) Tom Barleycorn
+165) Toregg
+166) Torghen Flint
+167) Torgon Greyiron
+168) Tristifer Botley
+169) Trystane Martell
+170) Tybero Istarion
+171) Tycho Nestoris
+172) Tyene Sand
+173) Ulmer
+174) Unella
+175) Victarion Greyjoy
+176) Waif
+177) Walda Frey (daughter of Merrett)
+178) Walder Frey (son of Jammos)
+179) Walder Frey (son of Merrett)
+180) Wex Pyke
+181) Wick Whittlestick
+182) Widower
+183) Willam Dustin
+184) William Foxglove
+185) Willow Witch eye
+186) Wulfe
+187) Wun Weg Wun Dar Wun
+188) Wylis Manderly
+189) Wyman Manderly
+190) Xaro Xhoan Daxos
+191) Yandry
+192) Yellow Dick
+193) Yezzan zo Qaggaz
+194) Ysilla
+195) Yurkhaz zo Yunzak
 
 
- >>> Top 20 characters with biggest cumulative weight:
+ --- Top 20 characters with biggest cumulative weight:
 1) Source: Joffrey-Baratheon; Target: Tyrion-Lannister; Weight: 95.
 2) Source: Brienne-of-Tarth; Target: Jaime-Lannister; Weight: 87.
 3) Source: Jon-Snow; Target: Mance-Rayder; Weight: 83.
@@ -406,7 +406,7 @@
 20) Source: Grenn; Target: Samwell-Tarly; Weight: 43.
 
 
- >>> Top 30 characters with smallest cumulative weight:
+ --- Top 30 characters with smallest cumulative weight:
 1) Source: Addam-Marbrand; Target: Gyles-Rosby; Weight: 3.
 2) Source: Addam-Marbrand; Target: Jaime-Lannister; Weight: 3.
 3) Source: Addam-Marbrand; Target: Jalabhar-Xho; Weight: 3.
@@ -439,7 +439,7 @@
 30) Source: Anders-Yronwood; Target: Oberyn-Martell; Weight: 3.
 
 
- >>> Edge before removal | Source: Jon-Snow; Target: Samwell-Tarly.
- >>> Edge after removal | Source: Jon-Snow; Target: Satin.
+ --- Edge before removal | Source: Jon-Snow; Target: Samwell-Tarly.
+ --- Edge after removal | Source: Jon-Snow; Target: Satin.
 
 Process finished with exit code 0
